@@ -17,6 +17,6 @@ scikit-learn==0.22.2
 seaborn==0.10.0
 Sphinx==2.4.4
 sphinx-rtd-theme==0.4.3
-tensorflow==2.1.0
+tensorflow==2.5.3
 TPOT==0.11.1
 xgboost==1.0.2
